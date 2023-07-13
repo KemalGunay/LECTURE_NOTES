@@ -1,0 +1,816 @@
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<style type="text/css" media="all">
+
+			.list {border: 1px solid #000 !important; border-collapse: collapse !important;  font-size: 10px !important;  }
+			.list td {border: 1px solid #000 !important; border-collapse: collapse !important;padding:2px;  font-size: 10px !important; }
+			.p { padding:2px !important;}
+			.b { font-weight:bold !important; }
+			.l { text-align:left !important;}
+			.c { text-align:center !important;}
+			.r { text-align:right !important;}
+			.j { text-align:justify !important;}
+			.wprint {display: none !important;}
+
+
+
+			</style>
+</head><body ><table width="100%" class="list">
+		<tr>
+			<td colspan="7" align="center">  <b>
+			İLETİŞİM FAKÜLTESİ <br />
+			YENİ MEDYA VE İLETİŞİM BÖLÜMÜ<br />
+			DERS TANITIM VE UYGULAMA BİLGİLERİ</b>
+			</td>
+		</tr>
+		<tr>
+			<th class="c">Ders Adı</td>
+			<th class="c">Kodu</td>
+			<th class="c">Yılı</td>
+			<th class="c">Yarıyılı</td>
+			<th class="c">Süresi (T+U)</td>
+			<th class="c">Kredisi</td>
+			<th class="c">AKTS Kredisi</td>
+		</tr>
+		<tr>
+			<td>YENİ MEDYADA ARAŞTIRMA YÖNTEMLERİ</td>
+			<td class="c">YMI206</td>
+			<td class="c">2</td>
+			<td class="c">4</td>
+			<td class="c">2+0</td>
+			<td class="c">2.0</td>
+			<td class="c">3.0</td>
+		</tr>
+	</table><br /><br />
+
+	<table  width="100%" class="list">
+		<tr>
+			<th colspan="2">Ders Bilgileri</th>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Öğretim Dili</td>
+			<td>Türkçe</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Düzeyi</td>
+			<td>Lisans , TYYÇ: 6. Düzey , EQF-LLL: 6. Düzey , QF-EHEA: 1. Düzey</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Türü</td>
+			<td >Zorunlu</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Veriliş Şekli</td>
+			<td>Yüz-Yüze Eğitim</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Ders zorunlu veya opsiyonel iş deneyimi gerektiriyor mu ?</td>
+			<td>Evet</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Koordinatörü</td>
+			<td >  </td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersi Veren(ler)</td>
+			<td>Dr. Öğr. Üyesi SERTAÇ KAYA<br /></td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Yardımcıları</td>
+			<td></td>
+	</table><br /><table width="100%" class="list">
+    	<tr>
+    	<th colspan="2"> Dersin Öncesinde ve/veya Ders ile Birlikte Alınması  Zorunlu Dersler</th>
+    	</tr></table><table width="100%" class="list">
+	<tr><th colspan="2">DERS KATEGORİSİ</th></tr>
+	<tr>
+		<th class="blue c">Dersin Kategorisi</th>
+		<th class="blue c" style="width:150px;">Katkı Yüzdesi</th>
+	</tr><tr>
+		<td>Temel Mesleki Ders</td>
+		<td class="c">%&nbsp;60</td>
+	</tr><tr>
+		<td>Uzmanlık / Alan Dersi</td>
+		<td class="c">%&nbsp;40</td>
+	</tr><tr>
+		<td>Destek Dersi</td>
+		<td class="c">-</td>
+	</tr><tr>
+		<td>Beşeri, İletişim ve Yönetim Becerileri Dersi</td>
+		<td class="c">-</td>
+	</tr><tr>
+		<td>Aktarılabilir Beceri Dersi</td>
+		<td class="c">-</td>
+	</tr></table><br />
+<table  width="100%" class="list">
+<tr>
+			<th colspan="2"> Amaç ve İçeriği</th>
+		</tr>
+	<tr>
+			<td style="width:150px;">Dersin Amacı</td>
+			<td class="j">Ders kapsamında; öğrenciler, yeni bir alan olan “yeni medya”da dijital verilerin analizini yapmayı öğreneceklerdir. Ayrıca bu analizleri yaparken farklı yöntemleri öğrenecek ve bu ders sayesinde kazanacağı bilgilerin ışığında bilimsel araştırma yapabilme, kaynakça tarama, çeşitli araştırma plan ya da tez önerilerinde bulunma ve bunları uygulama konularında yetkin bir duruma gelecektir. </td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin İçeriği</td>
+			<td class="j">Günümüz online ve sosyal medya araştırmasına şekil veren belli başlı hususlarla birlikte, sosyal medyaya ait temel araştırma tekniklerinin öğretilmesi dersin temel amacıdır. Ders kapsamında online araştırma ölçeği, hızlı gelişme nedenleri incelenerek,  yeni medyada araştırma yöntemleri konusu açımlanacaktır. 
+</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">Dersin Meslek Eğitimini Sağlamaya Yönelik Katkısı</td>
+			<td class="j">Öğrenciler derste yeni medyadan veri elde etmeyi ve bu verileri anlamlandırmayı öğreneceklerdir. Bu şekilde yeni medya ile ilgili akademik çalışmalar yapabileceklerdir.</td>
+		</tr>
+</table><br /><table  width="100%" class="list">
+		<tr>
+			<th>S.No<br /></th>
+			<th>Dersin Öğrenme Çıktıları<br />
+			<i style="font-size:9px;">Öğrenciler, bu dersi başarı ile tamamladıklarında aşağıda belirtilen bilgi, beceri ve/veya yetkinlikleri gösterirler.</i>
+			</th>
+			</tr><tr style="" id="Enterance_Ogrenme_Ciktilari_1"><td style="width:40px;" class="c">1</td>
+	<td>Yeni medya araştırma yöntem ve tekniklerine ilişkin temel kavramları açıklar.</td></tr><tr style="" id="Enterance_Ogrenme_Ciktilari_2"><td style="width:40px;" class="c">2</td>
+	<td>Alana dair araştırma amacı ile hipotez geliştirir.</td></tr><tr style="" id="Enterance_Ogrenme_Ciktilari_3"><td style="width:40px;" class="c">3</td>
+	<td>Örneklem oluşturma tekniklerinden araştırmasına uygun olanını seçer.</td></tr><tr style="" id="Enterance_Ogrenme_Ciktilari_4"><td style="width:40px;" class="c">4</td>
+	<td>Araştırmasını sonuca götürecek sağlıklı veri elde etme yöntemlerini değerlendirir.</td></tr><tr style="" id="Enterance_Ogrenme_Ciktilari_5"><td style="width:40px;" class="c">5</td>
+	<td>Yapmış olduğu araştırmadan elde ettiği verilere ilişkin raporlar hazırlayabilir.</td></tr><tr style="display:none;" id="Enterance_Ogrenme_Ciktilari_6"><td style="width:40px;" class="c">6</td>
+	<td>-</td></tr><tr style="display:none;" id="Enterance_Ogrenme_Ciktilari_7"><td style="width:40px;" class="c">7</td>
+	<td>-</td></tr><tr style="display:none;" id="Enterance_Ogrenme_Ciktilari_8"><td style="width:40px;" class="c">8</td>
+	<td>-</td></tr><tr style="display:none;" id="Enterance_Ogrenme_Ciktilari_9"><td style="width:40px;" class="c">9</td>
+	<td>-</td></tr><tr style="display:none;" id="Enterance_Ogrenme_Ciktilari_10"><td style="width:40px;" class="c">10</td>
+	<td>-</td></tr></table><br /><table  width="100%" class="list">
+	<tr>
+		<th colspan="3">Dersin Öğrenme-Öğretme Yöntemleri</th>
+	</tr>
+	<tr>
+		<td style="width:150px;" rowspan="9">Dersin Öğrenme-Öğretme Yöntemleri</td>
+	<td>(<b> X </b> )<label style="height:18px">Ders</label>
+</td><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Arazi Çalışması</label>
+</td></tr><tr><td>(<b> X </b> )<label style="height:18px">Grup Çalş. / Ödevi</label>
+</td><td>(<b> X </b> )<label style="height:18px">Laboratuar</label>
+</td></tr><tr><td>(<b> X </b> )<label style="height:18px">Okuma</label>
+</td><td>(<b> X </b> )<label style="height:18px">Ödev</label>
+</td></tr><tr><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Proje Hazırlama</label>
+</td><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Seminer</label>
+</td></tr><tr><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Staj</label>
+</td><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Teknik Gezi</label>
+</td></tr><tr><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Web Tab. Öğrenme</label>
+</td><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Uygulama</label>
+</td></tr><tr><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Yerinde Uygulama</label>
+</td><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Mesleki Faaliyet</label>
+</td></tr><tr><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Sosyal Faaliyet</label>
+</td><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Tez Hazırlama</label>
+</td></tr><tr><td>(<b>&nbsp;&nbsp;&nbsp;</b> )<label style="height:18px">Alan Çalışması</label>
+</td><td>(<b> X </b> )<label style="height:18px">Rapor Yazma</label>
+</td></tr><tr></tr></table><br />
+<table  width="100%" class="list">
+	<tr>
+		<th colspan="3">Haftalık Ders Konuları ve Öngörülen Hazırlık Çalışmaları</th></tr>
+	<tr>
+		<th class="blue c" style="width:35px;">Hafta</th>
+		<th class="blue" style="width:450px;">Konular</th>
+		<th class="blue">Ön Hazırlık ve Pekiştirme</th>
+
+	</tr><tr>
+					<td class="c" >1</td>
+					<td  style="vertical-align:top;" class="j"> Derse giriş ve genel bilgi aktarımı</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >2</td>
+					<td  style="vertical-align:top;" class="j"> Bilimsel Araştırmada Temel Kavramlar</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >3</td>
+					<td  style="vertical-align:top;" class="j"> Bilimsel Araştırmanın Temel Adımları</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >4</td>
+					<td  style="vertical-align:top;" class="j"> Alıntılama ve Kaynak Gösterimi</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >5</td>
+					<td  style="vertical-align:top;" class="j"> Araştırma Türleri</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >6</td>
+					<td  style="vertical-align:top;" class="j"> Örnekleme Türleri</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >7</td>
+					<td  style="vertical-align:top;" class="j"> İletişim Araştırmalarında Nitel Yöntemler I</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >8</td>
+					<td  style="vertical-align:top;" class="j"> Ara Sınav</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >9</td>
+					<td  style="vertical-align:top;" class="j"> İletişim Araştırmalarında Nitel Yöntemler II</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >10</td>
+					<td  style="vertical-align:top;" class="j"> Anket Tekniği</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >11</td>
+					<td  style="vertical-align:top;" class="j"> Netnografi</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >12</td>
+					<td  style="vertical-align:top;" class="j"> Araştırma Konularının Belirlenmesi</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >13</td>
+					<td  style="vertical-align:top;" class="j"> Final Proje Sunumları</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			<tr>
+					<td class="c" >14</td>
+					<td  style="vertical-align:top;" class="j"> Final Proje Sunumları</td>
+					<td style="width:220px;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i>
+					</td>
+				</tr>
+			</table><br />
+	<table  width="100%" class="list">
+	<tr><th colspan="2">KAYNAKLAR</th></tr>
+	<tr>
+		<td colspan="2" >-Aziz, Aysel. (2003). Araştırma Yöntemleri Teknikleri ve İletişim. İstanbul: Turhan.<br />
+-Erdoğan, İrfan. (2003). Pozitivist Metodoloji. Ankara:Erk.<br />
+-İslamoğlu, Hamdi. (2009). Sosyal Bilimlerde Araştırma Yöntemleri. İzmit: Beta.<br />
+-Karasar, Niyazi. (2007). Araştırmalarda Rapor Hazırlama. Ankara: Nobel.<br />
+-Karasar, Niyazi (2009). Bilimsel Araştırma Yöntemi. Ankara: Nobel.<br />
+-Severin, W. and Tankard, J. (1992). Communication Theories: Origins, and Uses In The Mass Media. London: Longman.<br />
+-Remzi Y. Kıncal (Ed.), Bilimsel Araştırma Yöntemleri, Ankara, Nobel Yayın Dağıtım, 2010.</td>
+	</tr>
+	</table><br /><table  width="100%" class="list">
+	<tr><th colspan="2">MATERYAL PAYLAŞIMI</th></tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Ders Notu</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Sunumlar</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Ödev</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Sınav ve Soru Çözümleri</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Faydalı Linkler</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Video ve Görseller</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Diğer</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr><tr >
+		<td   style="width:150px; border-bottom:1px solid #1e79bc !important;">Duyurular</td>
+		<td style="border-bottom:1px solid #1e79bc !important;"><i font-size:10px;">Yüklü Dosya Bulunmamaktadır</i></td>
+	</tr></table><br /><table width="100%" class="list">
+	<tr>
+		<th colspan="8" class="c">
+			DERSİN PROGRAM ÖĞRENME ÇIKTILARINA KATKISI
+		</th>
+	</tr><tr>
+						<th colspan="8" class="l">
+							BİLGİ
+						</th>
+					</tr><tr>
+						<th colspan="8" class="label l">
+							Kuramsal
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Konvansiyonel medyadan yeni medyaya geçiş sürecindeki konularda yapısal, yönetsel ve teknik özelliklere hakimdir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+				<td class="c">2 </td>
+				<td>İnsan ve toplum bilimleri alanlarında bilgi sahibidir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+				<td class="c">3 </td>
+				<td>Yeni medya okuryazarlığının özelliklerini bilir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+						<th colspan="8" class="label l">
+							Olgusal
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Etkileşimli ve katılımcı yeni medya kültürüne özgü süreçleri ve gelişmeleri bilir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+						<th colspan="8" class="l">
+							BECERİLER
+						</th>
+					</tr><tr>
+						<th colspan="8" class="label l">
+							Bilişsel
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Yeni medya içeriklerini eleştirel biçimde değerlendirebilecek ileri okuma, düşünme ve analitik çözümleme becerilerine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+				<td class="c">2 </td>
+				<td>Yeni iletişim teknolojilerine ilişkin mesleki ve uygulamaları becerilerini kuramsal bilgileriyle bütünleştirme becerisine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+				<td class="c">3 </td>
+				<td>Yeni medyanın toplumsal yaşam, ekonomi, kültür ve siyaset gibi alanlar üzerindeki etkilerini çözümleme becerisine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+						<th colspan="8" class="label l">
+							Uygulamalı
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Dijital platformlar için içerik sunumu ve dağıtımıyla ilgili ortam tasarlar ve uygular. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+						<th colspan="8" class="l">
+							KİŞİSEL VE MESLEKİ YETKİNLİKLER
+						</th>
+					</tr><tr>
+						<th colspan="8" class="label l">
+							Bağımsız Çalışabilme ve Sorumluluk Alabilme Yetkinliği
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Bireysel olarak ve/veya grup içinde uyumlu ve üretken olarak çalışır. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+				<td class="c">2 </td>
+				<td>Yeni medya alanındaki sorunlara çözüm bulmak amacıyla araştırma ve geliştirme projelerini eleştirel bir yaklaşımla inceler. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+						<th colspan="8" class="label l">
+							Öğrenme Yetkinliği
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Değişen teknolojilere uyum sağlayabilme yetkinliğine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+				<td class="c">2 </td>
+				<td>Yerel, bölgesel, ulusal ve uluslararası gündemi takip eder ve eleştirel bakışla değerlendirir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+						<th colspan="8" class="label l">
+							İletişim ve Sosyal Yetkinlik
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Yeni medyayla ilgili konuları uzman ya da uzman olmayan kişilere görsel, yazılı ve sözlü iletişim yöntemlerini kullanarak etkin ve doğru olarak aktarır. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+				<td class="c">2 </td>
+				<td>Yabancı bir dil kullanarak yeni medya alanındaki meslektaşlarıyla iletişim kurar. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+						<th colspan="8" class="label l">
+							Alana Özgü Yetkinlik
+
+						</th>
+					</tr>
+					<tr>
+		<th class="blue c" style="width:20px;" rowspan="2">S.No</th>
+		<th class="blue" rowspan="2" style="padding-left:10px;">PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+		<th class="blue c" colspan="6" style="width:40px;height:4px;" >KATKI DÜZEYİ*</th>
+	</tr>
+	<tr >
+		<th class="blue c" style="height:4px;width:10px;" title="Yok">0</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Az">1</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Az">2</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Orta">3</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Yüksek">4</th>
+		<th class="blue c" style="height:4px;width:10px;" title="Çok Yüksek">5</th>
+	</tr><tr>
+				<td class="c">1 </td>
+				<td>Yeni medya projeleri geliştirme yetkinliğine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+				<td class="c">2 </td>
+				<td>Soyut ve somut kavramları; yaratıcı düşünceye, yenilikçi ve özgün yapıtlara dönüştürür. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr><tr>
+				<td class="c">3 </td>
+				<td>Meslek etkinliklerini planlar ve yönetir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+				<td class="c">4 </td>
+				<td>Yeni medya için içerik üretme, yönetme ve bunları yayma yetkinliğine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td>
+				</tr><tr>
+				<td class="c">5 </td>
+				<td>Yeni medya projeleri geliştirme yetkinliğine sahiptir. </td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b"></td><td style="border: 1px solid #cccccc;width:15px;" class="c b">X</td>
+				</tr></table><table table width="100%" class="list"><tr>
+					<th class="label l" colspan="7">*Katkı Düzeyi (0-5): 0-Yok, 1- Çok Az, 2- Az, 3- Orta, 4- Yüksek, 5- Çok Yüksek</th>
+				</tr></table><br /><table  width="100%" class="list">
+		<tr>
+			<th>S.No<br /></th>
+			<th>Dersin Öğrenme Çıktıları<br />
+			<i style="font-size:9px;">Öğrenciler, bu dersi başarı ile tamamladıklarında aşağıda belirtilen bilgi, beceri ve/veya yetkinlikleri gösterirler.</i>
+			</th>
+			<th>PROGRAM ÖĞRENME ÇIKTILARI (İlişki Düzeyi)</th>
+
+			</tr><tr  id="Enterance_Ogrenme_Ciktilari_1"><td style="width:40px;" class="c">1</td>
+	<td>Yeni medya araştırma yöntem ve tekniklerine ilişkin temel kavramları açıklar.</td><td><span title="Konvansiyonel medyadan yeni medyaya geçiş sürecindeki konularda yapısal, yönetsel ve teknik özelliklere hakimdir."><u>1 (1)</u></span>, <span title="Yeni medya okuryazarlığının özelliklerini bilir."><u>3 (1)</u></span>, <span title="Etkileşimli ve katılımcı yeni medya kültürüne özgü süreçleri ve gelişmeleri bilir."><u>4 (1)</u></span>, <span title="Yeni medya içeriklerini eleştirel biçimde değerlendirebilecek ileri okuma, düşünme ve analitik çözümleme becerilerine sahiptir."><u>5 (1)</u></span>, <span title="Yeni iletişim teknolojilerine ilişkin mesleki ve uygulamaları becerilerini kuramsal bilgileriyle bütünleştirme becerisine sahiptir."><u>6 (1)</u></span>, <span title="Yeni medyanın toplumsal yaşam, ekonomi, kültür ve siyaset gibi alanlar üzerindeki etkilerini çözümleme becerisine sahiptir."><u>7 (1)</u></span>, <span title="Değişen teknolojilere uyum sağlayabilme yetkinliğine sahiptir."><u>11 (1)</u></span>, <span title="Yerel, bölgesel, ulusal ve uluslararası gündemi takip eder ve eleştirel bakışla değerlendirir."><u>12 (1)</u></span>, <span title="Yeni medyayla ilgili konuları uzman ya da uzman olmayan kişilere görsel, yazılı ve sözlü iletişim yöntemlerini kullanarak etkin ve doğru olarak aktarır."><u>13 (1)</u></span>, <span title="Yabancı bir dil kullanarak yeni medya alanındaki meslektaşlarıyla iletişim kurar."><u>14 (1)</u></span>, <span title="Yeni medya için içerik üretme, yönetme ve bunları yayma yetkinliğine sahiptir."><u>18 (1)</u></span></td></tr><tr  id="Enterance_Ogrenme_Ciktilari_2"><td style="width:40px;" class="c">2</td>
+	<td>Alana dair araştırma amacı ile hipotez geliştirir.</td><td><span title="İnsan ve toplum bilimleri alanlarında bilgi sahibidir."><u>2 (1)</u></span>, <span title="Yeni medyanın toplumsal yaşam, ekonomi, kültür ve siyaset gibi alanlar üzerindeki etkilerini çözümleme becerisine sahiptir."><u>7 (1)</u></span>, <span title="Dijital platformlar için içerik sunumu ve dağıtımıyla ilgili ortam tasarlar ve uygular."><u>8 (1)</u></span>, <span title="Bireysel olarak ve/veya grup içinde uyumlu ve üretken olarak çalışır."><u>9 (1)</u></span>, <span title="Yeni medya alanındaki sorunlara çözüm bulmak amacıyla araştırma ve geliştirme projelerini eleştirel bir yaklaşımla inceler."><u>10 (1)</u></span>, <span title="Değişen teknolojilere uyum sağlayabilme yetkinliğine sahiptir."><u>11 (1)</u></span>, <span title="Soyut ve somut kavramları; yaratıcı düşünceye, yenilikçi ve özgün yapıtlara dönüştürür."><u>16 (1)</u></span>, <span title="Meslek etkinliklerini planlar ve yönetir."><u>17 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>19 (1)</u></span></td></tr><tr  id="Enterance_Ogrenme_Ciktilari_3"><td style="width:40px;" class="c">3</td>
+	<td>Örneklem oluşturma tekniklerinden araştırmasına uygun olanını seçer.</td><td><span title="İnsan ve toplum bilimleri alanlarında bilgi sahibidir."><u>2 (1)</u></span>, <span title="Yeni medya içeriklerini eleştirel biçimde değerlendirebilecek ileri okuma, düşünme ve analitik çözümleme becerilerine sahiptir."><u>5 (1)</u></span>, <span title="Dijital platformlar için içerik sunumu ve dağıtımıyla ilgili ortam tasarlar ve uygular."><u>8 (1)</u></span>, <span title="Bireysel olarak ve/veya grup içinde uyumlu ve üretken olarak çalışır."><u>9 (1)</u></span>, <span title="Yeni medya alanındaki sorunlara çözüm bulmak amacıyla araştırma ve geliştirme projelerini eleştirel bir yaklaşımla inceler."><u>10 (1)</u></span>, <span title="Değişen teknolojilere uyum sağlayabilme yetkinliğine sahiptir."><u>11 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>15 (1)</u></span>, <span title="Soyut ve somut kavramları; yaratıcı düşünceye, yenilikçi ve özgün yapıtlara dönüştürür."><u>16 (1)</u></span>, <span title="Meslek etkinliklerini planlar ve yönetir."><u>17 (1)</u></span>, <span title="Yeni medya için içerik üretme, yönetme ve bunları yayma yetkinliğine sahiptir."><u>18 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>19 (1)</u></span></td></tr><tr  id="Enterance_Ogrenme_Ciktilari_4"><td style="width:40px;" class="c">4</td>
+	<td>Araştırmasını sonuca götürecek sağlıklı veri elde etme yöntemlerini değerlendirir.</td><td><span title="İnsan ve toplum bilimleri alanlarında bilgi sahibidir."><u>2 (1)</u></span>, <span title="Yeni medya içeriklerini eleştirel biçimde değerlendirebilecek ileri okuma, düşünme ve analitik çözümleme becerilerine sahiptir."><u>5 (1)</u></span>, <span title="Dijital platformlar için içerik sunumu ve dağıtımıyla ilgili ortam tasarlar ve uygular."><u>8 (1)</u></span>, <span title="Bireysel olarak ve/veya grup içinde uyumlu ve üretken olarak çalışır."><u>9 (1)</u></span>, <span title="Yeni medya alanındaki sorunlara çözüm bulmak amacıyla araştırma ve geliştirme projelerini eleştirel bir yaklaşımla inceler."><u>10 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>15 (1)</u></span>, <span title="Soyut ve somut kavramları; yaratıcı düşünceye, yenilikçi ve özgün yapıtlara dönüştürür."><u>16 (1)</u></span>, <span title="Meslek etkinliklerini planlar ve yönetir."><u>17 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>19 (1)</u></span></td></tr><tr  id="Enterance_Ogrenme_Ciktilari_5"><td style="width:40px;" class="c">5</td>
+	<td>Yapmış olduğu araştırmadan elde ettiği verilere ilişkin raporlar hazırlayabilir.</td><td><span title="İnsan ve toplum bilimleri alanlarında bilgi sahibidir."><u>2 (1)</u></span>, <span title="Dijital platformlar için içerik sunumu ve dağıtımıyla ilgili ortam tasarlar ve uygular."><u>8 (1)</u></span>, <span title="Bireysel olarak ve/veya grup içinde uyumlu ve üretken olarak çalışır."><u>9 (1)</u></span>, <span title="Yeni medya alanındaki sorunlara çözüm bulmak amacıyla araştırma ve geliştirme projelerini eleştirel bir yaklaşımla inceler."><u>10 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>15 (1)</u></span>, <span title="Soyut ve somut kavramları; yaratıcı düşünceye, yenilikçi ve özgün yapıtlara dönüştürür."><u>16 (1)</u></span>, <span title="Meslek etkinliklerini planlar ve yönetir."><u>17 (1)</u></span>, <span title="Yeni medya için içerik üretme, yönetme ve bunları yayma yetkinliğine sahiptir."><u>18 (1)</u></span>, <span title="Yeni medya projeleri geliştirme yetkinliğine sahiptir."><u>19 (1)</u></span></td></tr></table><br /><table width="100%" class="list">
+	<tr>
+		<th colspan="3">Ölçme ve Değerlendirme</th>
+	</tr>
+	<tr>
+		<th class="blue c">Yarıyıl İçi Yapılan Çalışmaların Ölçme ve Değerlendirilmesi</th>
+		<th class="blue c" style="width:50px;">  Etkinlik</br>Sayısı</th>
+		<th class="blue c" style="width:150px;">Katkı Yüzdesi</th>
+	</tr><tr >
+			<td>Ara Sınav</td>
+			<td class="c">1</td>
+			<td class="c">%&nbsp;60</td>
+	</tr><tr >
+			<td>Bilg.Des. Sunum</td>
+			<td class="c">1</td>
+			<td class="c">%&nbsp;10</td>
+	</tr><tr >
+			<td>Kısa Sınav</td>
+			<td class="c">1</td>
+			<td class="c">%&nbsp;10</td>
+	</tr><tr >
+			<td>Rapor Sunma</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Ödev Değerlendirme</td>
+			<td class="c">1</td>
+			<td class="c">%&nbsp;10</td>
+	</tr><tr >
+			<td>Sözlü Değerlendirme</td>
+			<td class="c">1</td>
+			<td class="c">%&nbsp;10</td>
+	</tr><tr >
+			<td>Tez Sunma</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Belge Sunma</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Uzman Değerlendirmesi</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Kurul Sınavı</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Uygulama Sınavı</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Yıl Sonu Final Sınavı</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Staj Sınavı</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr><tr >
+			<td>Proje Değerlendirme</td>
+			<td class="c">0</td>
+			<td class="c">-</td>
+	</tr>
+	<tr><th class="blue">TOPLAM</th>
+	<th class="blue c" id="yariyilSayiToplam">5</th>
+	<th class="blue c" id="yariyilSayiToplam">%100</th>
+	</tr>
+	<tr><td colspan="3" style="height:1px;"></td></tr><tr>
+		<th class="blue">Yarıyıl İçi Yapılan Çalışmaların Başarısının Toplam Başarı Notuna Katkısı</th>
+		<th class="blue c">5</th>
+		<th class="blue c">%60</th>
+	</tr>
+	<tr>
+		<th class="blue">Yarıyıl Sonu Sınavının Başarısının Toplam Başarı Notuna Katkısı</th>
+		<th class="blue c">1</th>
+		<th class="blue c">%40</th>
+	</tr>
+		<tr>
+		<th class="blue">TOPLAM</th>
+		<th class="blue c">6</th>
+		<th class="blue c">%100</th>
+	</tr></table><br />
+	<br /><table width="100%" class="list">
+<tr><th colspan="4" class="c">DERSİN İŞ YÜKÜ VE AKTS KREDİSİ</th></tr>
+<tr><th class="blue l" colspan="4">Öğrenme - Öğretme Etkinlikleri İş Yükü</th></tr>
+<tr>
+	<th class="label l" >Öğrenme - Öğretme Etkinlikleri</th>
+	<th class="label c" >Etkinlik</br>(Hafta Sayısı)</th>
+	<th class="label c" >Süresi</br>(Saat)</th>
+	<th class="label c" >Toplam İş Yükü</th>
+</tr>
+<tr>
+	 <td class="l">Ders</td>
+	 <td class="c">14</td>
+	 <td class="c">2</td>
+	 <td class="c">28</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Derse Ön Hazırlık ve Ders Sonrası Pekiştirme</td>
+	 <td class="c">14</td>
+	 <td class="c">1</td>
+	 <td class="c">14</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Arazi Çalışması</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Grup Çalş. / Ödevi</td>
+	 <td class="c">3</td>
+	 <td class="c">3</td>
+	 <td class="c">9</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Laboratuar</td>
+	 <td class="c">3</td>
+	 <td class="c">3</td>
+	 <td class="c">9</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Okuma</td>
+	 <td class="c">3</td>
+	 <td class="c">1</td>
+	 <td class="c">3</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Ödev</td>
+	 <td class="c">3</td>
+	 <td class="c">3</td>
+	 <td class="c">9</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Proje Hazırlama</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Seminer</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Staj</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Teknik Gezi</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Web Tab. Öğrenme</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Uygulama</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Yerinde Uygulama</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Mesleki Faaliyet</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Sosyal Faaliyet</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Tez Hazırlama</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Alan Çalışması</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 <td class="c">0</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Rapor Yazma</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr>
+	<th class="label l" style="height:20px;">Öğrenme - Öğretme Etkinlikleri Toplam İş Yükü</th>
+	<th class="label c">-</th>
+	<th class="label c">-</th>
+	<th class="label c">73</th>
+</tr>
+	<tr><th class="blue l" colspan="4">Ölçme - Değerlendirme Etkinlikleri Toplam İş Yükü</th></tr>
+<tr>
+	<th class="label l" >Ölçme - Değerlendirme Etkinlikleri</th>
+	<th class="label c" >Etkinlik</br>(Sayısı)</th>
+	<th class="label c" >Süresi</br>(Saat)</th>
+	<th class="label c" >Toplam İş Yükü</th>
+</tr><tr>
+	 <td class="l">Final Sınavı</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Final Sınavı Hazırlığı</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Ara Sınav</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Ara Sınav Hazırlığı</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Kısa Sınav</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr>
+	 <td class="l">Kısa Sınav Hazırlığı</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 <td class="c">1</td>
+	 </tr>
+	 <tr >
+	<th class="label l" style="height:20px;">Toplam Ölçme - Değerlendirme Etkinlikleri Toplam İş Yükü</th>
+	<th class="label c">-</th>
+	<th class="label c">-</th>
+	<th class="label c">6</th>
+</tr>
+	<tr><th class="label" colspan="4"></th></tr>
+	<tr>
+		<th class="blue r">Genel Toplam</th>
+		<th class="blue c">-</th>
+		<th class="blue c">-</th>
+		<th class="blue c">79</th>
+	</tr>
+	<tr>
+		<th class="blue r">Toplam İş Yükü / 25.5</th>
+		<th class="blue r" colspan="2"></th>
+		<th class="blue c" colspan=>3.1</th>
+	</tr>
+	<tr>
+		<th class="blue r">Dersin AKTS (ECTS) Kredisi</th>
+		<th class="blue r" colspan="2"></th>
+		<th class="blue c" colspan=>3.0</th>
+	</tr>
+
+</table><br /><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "YENİ MEDYADA ARAŞTIRMA YÖNTEMLERİ",
+  "description": "YMI206 YENİ MEDYADA ARAŞTIRMA YÖNTEMLERİ",
+  "provider": {
+    "@type": "Organization",
+    "name": "İstanbul Aydın Üniversitesi » İLETİŞİM FAKÜLTESİ » YENİ MEDYA VE İLETİŞİM",
+    "sameAs": "https://ebs.aydin.edu.tr/tr/index.iau?Page=BolumGenelBilgiler&BK=1011&"
+  }
+}
+</script></body>
